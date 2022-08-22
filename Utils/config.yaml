@@ -1,0 +1,8 @@
+loggerconfig: Utils\logger_config.ini
+restorelogfile: 10
+logs_folder: logs/
+transactional_folder: ./transactional_data/
+discount_excel: ./Discounts.xlsx
+status_stats: [Cancelled,On Hold]
+discounting_scheme: ['Vintage Cars', 'Classic Cars', 'Motorcycles', 'Trucks and Buses']
+product_line_sales_trend: {Classic Cars : Shipped}
